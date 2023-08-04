@@ -1,11 +1,11 @@
 {
-    "name": "aiz-packages/color-code-converter",
+    "name": "cgdev23/color-code-converter",
     "description": "HEX code coverted to RGB color code",
     "type": "library",
     "authors": [
         {
-            "name": "Shifat Hossain",
-            "email": "amithassan3229@gmail.com"
+            "name": "Rattanak",
+            "email": "rattanak.dev@gmail.com"
         }
     ],
     "require": {
